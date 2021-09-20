@@ -1,0 +1,47 @@
+body{
+    background: gainsboro;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+  color: rgb(65, 74, 177);
+}
+h2{
+  color:rgb(69, 73, 87)
+}
+h3{
+  color:rgb(126, 131, 148)
+}
+
+#idd{
+  width: 90%;
+  margin:auto;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  border-radius: 20px;
+}
+
+header{
+  height:300px;
+  background-image: url(https://airandspace.si.edu/sites/default/files/images/WEB12026-2011h.jpg);
+  text-align: center;
+  line-height: 100px;
+}
+
+.iniciador{
+  display: inline-block;
+  width: 100%;
+}
+
+#idd2{
+  width: 70%;
+  margin:auto;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  border-radius: 210px;
+  text-align: center;
+}
+
+#tb1{
+  color: rgb(9, 68, 68)
+}
